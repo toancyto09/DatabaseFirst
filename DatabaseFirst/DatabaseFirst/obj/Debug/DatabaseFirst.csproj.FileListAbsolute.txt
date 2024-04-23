@@ -1,0 +1,12 @@
+C:\Users\HUYNH VAN TOAN\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe.config
+C:\Users\HUYNH VAN TOAN\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe
+C:\Users\HUYNH VAN TOAN\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.pdb
+C:\Users\HUYNH VAN TOAN\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\HUYNH VAN TOAN\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HUYNH VAN TOAN\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\HUYNH VAN TOAN\source\repos\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HUYNH VAN TOAN\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.AssemblyReference.cache
+C:\Users\HUYNH VAN TOAN\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\HUYNH VAN TOAN\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CopyComplete
+C:\Users\HUYNH VAN TOAN\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.exe
+C:\Users\HUYNH VAN TOAN\source\repos\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.pdb
